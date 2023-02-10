@@ -1,8 +1,8 @@
-hola mundo chuli
-adios tete
+hola mister Burns
+adios Homie
 
 linea 1
 linea 2
 
-linea 10
-linea 11
+linea 20
+linea 31
